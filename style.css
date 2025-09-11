@@ -8,7 +8,7 @@ a:hover {color: #E2383F;}
 .head {padding: 50px 0; margin: auto; background: rgb(0, 0, 0, 0.2);}
 #head {border-bottom: 5px solid #E2383F;}
 
-.content {}
+/* .content {} */
 .content img {max-width: 100%;}
 
 /* 컨테이너 */
@@ -93,3 +93,5 @@ a:hover {color: #E2383F;}
 
 /* f1 -> ftp -> ftp remote... */
 /* f1 -> ftp -> config ... */
+/* 왼쪽하단 > 프로필 > shift ctrl p > git clone 검색 > 깃허브 레퍼지토리 선택 > 폴더 선택창 > */
+/* 오른쪽 중간 메뉴 3번째 아이콘 -> 변경사항 커밋 -> 푸쉬 */
